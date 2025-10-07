@@ -11,10 +11,10 @@
 ## Assignment-3-Learn-more-about-OpenCV
 教案还没写出来  
 [作业](3/hm2.ipynb)
-## Assignment 4
-教案还没写出来  
+## Assignment-4-Transform-and-LiDAR
+还没完结，没布置成assignment
 
-[作业](4/Assignment4-作业要求.md)
+[Assignment-4-Transform-and-LiDAR](https://github.com/RobotIC-2026-Algorithm-Intern/Assignment-4-Transform-and-LiDAR/tree/main)
 ## Assignment 5
 教案还没写出来  
 
