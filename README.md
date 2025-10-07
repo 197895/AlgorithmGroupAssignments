@@ -10,7 +10,7 @@
 [Assignment 2 ros2 basic](https://classroom.github.com/a/EnViJp7r)
 ## Assignment-3-Learn-more-about-OpenCV
 教案还没写出来  
-[作业](3/Assignment3-作业要求.md)
+[作业](3/hm2.ipynb)
 ## Assignment 4
 教案还没写出来  
 
